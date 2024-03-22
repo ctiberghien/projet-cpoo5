@@ -1,0 +1,60 @@
+.slibutton {
+    -fx-background-color: #008CBA; 
+    -fx-text-fill: white; 
+    -fx-font-size: 28px;
+}
+
+.slibutton:hover {
+    -fx-background-color: #00698b;
+}
+
+.sli2button {
+    -fx-background-color: #aa00ba; 
+    -fx-text-fill: white; 
+    -fx-font-size: 28px;
+}
+
+.sli2button:hover {
+    -fx-background-color: #5f008b;
+}
+
+
+.snake2button {
+    -fx-background-color: #f44336; 
+    -fx-text-fill: white; 
+    -fx-font-size: 28px;
+}
+
+.snake2button:hover {
+    -fx-background-color: #c54238
+}
+
+.snakebutton {
+    -fx-background-color: #FF9800; 
+    -fx-text-fill: white; 
+    -fx-font-size: 28px;
+}
+
+.snakebutton:hover {
+    -fx-background-color: #d68100;
+}
+
+.onlinebutton {
+    -fx-background-color: #4CAF50; 
+    -fx-text-fill: white; 
+    -fx-font-size: 28px;
+}
+
+.onlinebutton:hover {
+    -fx-background-color: #328836;
+}
+
+.quitterbutton {
+    -fx-background-color: #555555; 
+    -fx-text-fill: white; 
+    -fx-font-size: 28px;
+}
+
+.quitterbutton:hover {
+    -fx-background-color: #363636;
+}
